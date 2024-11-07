@@ -22,6 +22,7 @@
     --h3: 800  1.4rem/140% var(--font-family);
     --span: 600 1.4rem/145% var(--font-family);
     --p: 400 1.4rem/160% var(--font-family);
+    --tags: 500 1rem/120% var(--font-family);
 }
 
 body {
@@ -34,7 +35,6 @@ a {
     text-decoration: none;
     color: inherit;
     font: var(--span);
-
 }
 
 a:hover {
@@ -56,5 +56,24 @@ img {
 }
 
 main {
-    margin-top: 4.0rem;
+    margin-top: 4rem;
+}
+
+.tag {
+    display: inline-block;
+    font: var(--tags);
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--text-color-primary);
+
+    background-color:var(--brand-color-dark) ;
+    padding: 4px 8px;
+    border-radius: 4px;
+    box-shadow: 0px 4px 16px 0px rgba(2, 6, 23, 0.251);
+}
+
+.text-h3 {
+    font: var(--h3);
+    width: 26.4rem;
+    margin-top: 0.8rem;
 }
