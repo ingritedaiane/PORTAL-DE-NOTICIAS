@@ -88,3 +88,8 @@ section header {
         }
     }
 }
+
+#ai {
+
+    font: var(--p);
+}
