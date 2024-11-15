@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -17,7 +17,6 @@
     --text-color-secondary: #CBD5E1;
     
     --font-family: "Archivo", sans-serif;
-    --font-black: "Archivo Black", sans-serif;
     --h1: 800 2.4rem/135% var(--font-family);
     --h2: 800 1.6rem/140% var(--font-family);
     --h3: 800  1.4rem/140% var(--font-family);
@@ -85,4 +84,8 @@ main {
 .text-h3 {
     font: var(--h3);
     margin-top: 0.8rem;
+}
+
+strong {
+    font: var(--span);
 }
