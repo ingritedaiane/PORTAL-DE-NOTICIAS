@@ -1,15 +1,13 @@
 <div align="center">
   <h1> FORMAÇÃO FULL-STACK ROCKETSEAT 🚀</h1>
-Projeto | Desenvolver uma página web com noticias do mundo tecnologico, utilizando:<br>
+Projeto | Desenvolver um conversor de moedas, utilizando:<br>
   <br>
-  ✔️ CSS Grid
-  ✔️ Fontes 
-  ✔️ Imagens
+  ✔️ JavaScript Básico
   ✔️ Estrutura HTML
   ✔️ Medidas flexíveis REM
   <br>
 <br>
-  <img src="https://github.com/user-attachments/assets/4ac2c31c-8b8d-4e0b-b6ca-ae76375a184c" width="580px"><br>
+  <img src="https://github.com/user-attachments/assets/bf68b49d-594a-4a75-9d1c-15506f1c7651" width="580px"><br>
 <br>
   <hr>
   <br>
